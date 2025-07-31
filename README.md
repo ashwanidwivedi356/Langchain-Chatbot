@@ -46,35 +46,25 @@ Edit
 git clone https://github.com/your-username/langchain-openrouter-chatbot.git
 cd langchain-openrouter-chatbot
 2. Install Dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 3. Create .env File
 Create a .env file in the root directory and add your OpenRouter API key:
 
-ini
-Copy
-Edit
+
 OPENROUTER_API_KEY=your_openrouter_api_key_here
 You can get the API key from OpenRouter.ai.
 
 4. Run the Chatbot
-bash
-Copy
-Edit
+
 python chatbot.py
 📄 requirements.txt
-txt
-Copy
-Edit
+
 langchain
 langchain_openai
 python-dotenv
 📁 Project Structure
-bash
-Copy
-Edit
+
 .
 ├── chatbot.py          # Main chatbot script
 ├── .env                # Environment variables (ignored by Git)
@@ -106,6 +96,4 @@ Ashwani Kumar Dwivedi
 Open to collaborations!
 LinkedIn | GitHub
 
-yaml
-Copy
-Edit
+
