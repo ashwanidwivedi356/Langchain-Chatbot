@@ -43,7 +43,7 @@ Edit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/langchain-openrouter-chatbot.git
+git clone https://github.com/ashwanidwivedi356/Langchain-Chatbot
 cd langchain-openrouter-chatbot
 2. Install Dependencies
 
